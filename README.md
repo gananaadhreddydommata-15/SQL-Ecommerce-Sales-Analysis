@@ -1,16 +1,5 @@
 # 📊 E-Commerce Sales Analysis using SQL
 
-<p align="center">
-  <img src="Screenshots/banner.png" width="100%">
-</p>
-
-<h1 align="center">📊 E-Commerce Sales Analysis using SQL</h1>
-
-<p align="center">
-  <b>50 Real-World Business Questions • MySQL • Data Analytics</b>
-</p>
-
-
 ## 📌 Project Overview
 
 This project analyzes the Global Superstore dataset using MySQL to solve real-world business problems. It focuses on sales performance, customer behavior, product profitability, and regional analysis through SQL queries.
